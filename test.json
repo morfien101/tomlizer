@@ -1,0 +1,1 @@
+{"inputs.redis":[{"servers":["tcp://localhost:6379","tcp://host1.2.3.com:6379"],"password":"onetwo12","insecure_skip_verify":true,"tls_ca":"/ca.pem","tls_cert":"/cert.pem","tls_key":"/key.pem"}]}
